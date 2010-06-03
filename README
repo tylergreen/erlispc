@@ -1,0 +1,26 @@
+erlispc is a experimental compiler for generating erlang code from an minimal and extensible lisp scripting language.
+
+Goals: 
+Straightforward
+Simple
+Small       
+
+High Level Challenges: 
+1) how to use erlangs own list manipulation functions for metaprogramming
+  (or, how to avoid writing another stdprelude by hand)
+2) Data structure design (tuples, lists)
+
+
+To Do:
+
+add spawn primitive
+output to file
+start using/testing
+figure out how macros are going to work
+Factor boilerplate from parser
+
+
+
+
+
+
